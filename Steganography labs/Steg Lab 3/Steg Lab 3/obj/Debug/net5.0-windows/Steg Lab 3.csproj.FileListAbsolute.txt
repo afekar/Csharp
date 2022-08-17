@@ -1,0 +1,19 @@
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\bin\Debug\net5.0-windows\Steg Lab 3.exe
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\bin\Debug\net5.0-windows\Steg Lab 3.deps.json
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\bin\Debug\net5.0-windows\Steg Lab 3.runtimeconfig.json
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\bin\Debug\net5.0-windows\Steg Lab 3.runtimeconfig.dev.json
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\bin\Debug\net5.0-windows\Steg Lab 3.dll
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\bin\Debug\net5.0-windows\ref\Steg Lab 3.dll
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\bin\Debug\net5.0-windows\Steg Lab 3.pdb
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.csproj.AssemblyReference.cache
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg_Lab_3.Form1.resources
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.AssemblyInfoInputs.cache
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.AssemblyInfo.cs
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.dll
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\ref\Steg Lab 3.dll
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.pdb
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg Lab 3.genruntimeconfig.cache
+C:\Users\Карим\source\repos\Steg Lab 3\Steg Lab 3\obj\Debug\net5.0-windows\Steg_Lab_3.Properties.Resources.resources

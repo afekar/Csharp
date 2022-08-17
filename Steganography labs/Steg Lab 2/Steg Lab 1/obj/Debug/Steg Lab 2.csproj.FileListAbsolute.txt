@@ -1,0 +1,11 @@
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\bin\Debug\Steg Lab 1.exe.config
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\bin\Debug\Steg Lab 1.exe
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\bin\Debug\Steg Lab 1.pdb
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\obj\Debug\Steg Lab 2.csproj.AssemblyReference.cache
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\obj\Debug\Steg_Lab_1.Form1.resources
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\obj\Debug\Steg_Lab_1.Form2.resources
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\obj\Debug\Steg_Lab_1.Properties.Resources.resources
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\obj\Debug\Steg Lab 2.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\obj\Debug\Steg Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\obj\Debug\Steg Lab 1.exe
+C:\Users\Карим\source\repos\Steg Lab 2\Steg Lab 1\obj\Debug\Steg Lab 1.pdb
